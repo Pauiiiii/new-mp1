@@ -30,7 +30,7 @@ header {
 }
 
 header .header-brand{
-    font-family:"Proxima Nova Bold";
+    font-family: "Adobe Garamond Pro Italic";
     font-size: 24px;
     font-weight: 900;
     color: #111;
@@ -154,7 +154,7 @@ header .header-all{
 }
 
 .About-container h3 {
-    font-family: "Proxima Nova Bold";
+    font-family:"Adobe Garamond Pro Italic";
     font-size: 55px;
     font-weight: 700;
     line-height: 70px;
